@@ -1,0 +1,207 @@
+[
+    {
+        "id": "INQ-301",
+        "customer_name": "Aarav Sharma",
+        "email": "aarav.sharma@techcorp.in",
+        "phone": "+91-9876543210",
+        "interest": "Custom Web Application Development",
+        "message": "We need a custom B2B SaaS portal with client onboarding and billing integration.",
+        "date": "2026-10-15",
+        "status": "Resolved",
+        "history": [
+            {
+                "timestamp": "2026-10-15 10:30",
+                "status": "New",
+                "note": "Inquiry recorded from web portal."
+            },
+            {
+                "timestamp": "2026-10-16 14:00",
+                "status": "In Progress",
+                "note": "Requirement scoping call completed."
+            },
+            {
+                "timestamp": "2026-10-20 16:45",
+                "status": "Resolved",
+                "note": "Contract signed and handed to delivery team."
+            }
+        ]
+    },
+    {
+        "id": "INQ-302",
+        "customer_name": "Priya Patel",
+        "email": "priya.patel@innovate.org",
+        "phone": "+91-9123456780",
+        "interest": "Cloud Infrastructure & DevOps Automation",
+        "message": "Looking to migrate our AWS infrastructure to Terraform with automated CI/CD.",
+        "date": "2026-10-22",
+        "status": "In Progress",
+        "history": [
+            {
+                "timestamp": "2026-10-22 11:15",
+                "status": "New",
+                "note": "Inquiry received via partner referral."
+            },
+            {
+                "timestamp": "2026-10-24 09:30",
+                "status": "In Progress",
+                "note": "Shared cloud architectural assessment proposal."
+            }
+        ]
+    },
+    {
+        "id": "INQ-303",
+        "customer_name": "Rohit Verma",
+        "email": "rohit.verma@gmail.com",
+        "phone": "+91-9811223344",
+        "interest": "Full-Stack Web Development Bootcamp",
+        "message": "Inquiring about weekend cohort schedule and payment installment plans.",
+        "date": "2026-10-28",
+        "status": "New",
+        "history": [
+            {
+                "timestamp": "2026-10-28 17:20",
+                "status": "New",
+                "note": "Applicant submitted online course inquiry."
+            }
+        ]
+    },
+    {
+        "id": "INQ-304",
+        "customer_name": "Ananya Iyer",
+        "email": "ananya.iyer@fintechsol.com",
+        "phone": "+91-9988776655",
+        "interest": "Cybersecurity Audit & Penetration Testing",
+        "message": "Require urgent ISO 27001 vulnerability audit and web app penetration testing.",
+        "date": "2026-11-01",
+        "status": "In Progress",
+        "history": [
+            {
+                "timestamp": "2026-11-01 13:40",
+                "status": "New",
+                "note": "Inbound corporate audit inquiry."
+            },
+            {
+                "timestamp": "2026-11-02 11:00",
+                "status": "In Progress",
+                "note": "NDA signed; testing environment access being provisioned."
+            }
+        ]
+    },
+    {
+        "id": "INQ-305",
+        "customer_name": "David Miller",
+        "email": "david.miller@apexglobal.com",
+        "phone": "+1-4155552671",
+        "interest": "AI & Machine Learning Model Integration",
+        "message": "Interested in deploying internal document retrieval LLMs with role-based access control.",
+        "date": "2026-11-02",
+        "status": "New",
+        "history": [
+            {
+                "timestamp": "2026-11-02 09:10",
+                "status": "New",
+                "note": "Inquiry submitted by CTO office."
+            }
+        ]
+    },
+    {
+        "id": "INQ-306",
+        "customer_name": "Meera Nair",
+        "email": "meera.nair@student.edu",
+        "phone": "+91-9744112233",
+        "interest": "Software Development Engineering (SDE) Intern",
+        "message": "Applying for the 6-month SDE internship. Final year CS undergraduate with React/Django experience.",
+        "date": "2026-11-03",
+        "status": "New",
+        "history": [
+            {
+                "timestamp": "2026-11-03 14:15",
+                "status": "New",
+                "note": "Resume and GitHub portfolio received."
+            }
+        ]
+    },
+    {
+        "id": "INQ-307",
+        "customer_name": "Vikram Malhotra",
+        "email": "vikram.m@retailx.io",
+        "phone": "+91-9833445566",
+        "interest": "Enterprise Data Analytics & BI Dashboards",
+        "message": "Need help integrating our Shopify, warehouse, and CRM data into a centralized Snowflake & PowerBI setup.",
+        "date": "2026-11-03",
+        "status": "In Progress",
+        "history": [
+            {
+                "timestamp": "2026-11-03 16:50",
+                "status": "New",
+                "note": "Retail analytics inquiry created."
+            },
+            {
+                "timestamp": "2026-11-04 15:30",
+                "status": "In Progress",
+                "note": "Data schema review meeting conducted."
+            }
+        ]
+    },
+    {
+        "id": "INQ-308",
+        "customer_name": "Sophie Zhang",
+        "email": "sophie.zhang@designlab.ca",
+        "phone": "+1-6045558912",
+        "interest": "UI/UX Experience Design & Prototyping",
+        "message": "Looking for a complete redesign of our mobile health tracking application in Figma.",
+        "date": "2026-11-04",
+        "status": "New",
+        "history": [
+            {
+                "timestamp": "2026-11-04 18:05",
+                "status": "New",
+                "note": "Client design brief received."
+            }
+        ]
+    },
+    {
+        "id": "INQ-309",
+        "customer_name": "Arjun Rao",
+        "email": "arjun.rao@startupnexus.com",
+        "phone": "+91-9900112233",
+        "interest": "Generative AI Application Engineering",
+        "message": "Can our engineering team of 5 enroll as a corporate batch? Seeking group discount details.",
+        "date": "2026-11-04",
+        "status": "In Progress",
+        "history": [
+            {
+                "timestamp": "2026-11-04 19:40",
+                "status": "New",
+                "note": "Corporate batch discount requested."
+            },
+            {
+                "timestamp": "2026-11-05 10:15",
+                "status": "In Progress",
+                "note": "Corporate quotation delivered to HR."
+            }
+        ]
+    },
+    {
+        "id": "INQ-310",
+        "customer_name": "Sneha Kulkarni",
+        "email": "sneha.k@academix.in",
+        "phone": "+91-9655443322",
+        "interest": "Data Science & Machine Learning Accelerator",
+        "message": "Would like to review the syllabus regarding deep learning and PyTorch modules.",
+        "date": "2026-11-05",
+        "status": "Resolved",
+        "history": [
+            {
+                "timestamp": "2026-11-05 08:30",
+                "status": "New",
+                "note": "Curriculum inquiry registered."
+            },
+            {
+                "timestamp": "2026-11-05 12:00",
+                "status": "Resolved",
+                "note": "Detailed syllabus sent; student enrolled in upcoming batch."
+            }
+        ]
+    }
+]

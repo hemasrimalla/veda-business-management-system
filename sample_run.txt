@@ -1,0 +1,670 @@
+
+======================================================================
+      VEDA TECHNOLOGY BUSINESS & SERVICE MANAGEMENT SYSTEM
+            Enterprise Digital Operations & Analytics
+======================================================================
+ Welcome! Manage services, programs, inquiries, search, and reports.
+======================================================================
+[i] Storage ready: 10 services, 10 programs, 10 inquiries loaded.
+
+
+==================================================
+               MAIN NAVIGATION MENU               
+==================================================
+  1. Digital Service Management
+  2. Program & Internship Management
+  3. Customer Inquiry Management
+  4. Search & Multi-Criteria Filtering
+  5. Business Analytics & Reports
+  6. System Data Status & Reload
+  7. Exit Application
+==================================================
+Select an option (1-7): 
+==================================================
+              SERVICE MANAGEMENT MENU             
+==================================================
+  1. View All Services
+  2. View Service Details
+  3. Add New Service
+  4. Update Service
+  5. Delete Service
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-5): 
+==========================================================================================
+                           VEDA TECHNOLOGY SERVICES (Total: 10)                           
+==========================================================================================
+ID        Service Name                       Category                Price (USD)  Status  
+------------------------------------------------------------------------------------------
+SRV-101   Custom Web Application Development Web Development           $3,500.00  Active  
+SRV-102   Cross-Platform Mobile App Devel... Mobile App Development    $4,200.00  Active  
+SRV-103   Cloud Infrastructure & DevOps A... Cloud Services            $2,800.00  Active  
+SRV-104   Enterprise Data Analytics & BI ... Data Analytics            $3,100.00  Active  
+SRV-105   AI & Machine Learning Model Int... AI & Machine Learning     $5,000.00  Active  
+SRV-106   Cybersecurity Audit & Penetrati... Cybersecurity             $3,800.00  Active  
+SRV-107   UI/UX Experience Design & Proto... Design & Creative         $2,200.00  Active  
+SRV-108   API Design & Microservices Refa... Architecture              $4,500.00  Active  
+SRV-109   Managed Database Optimization &... Database                  $1,900.00 Inactive 
+SRV-110   Legacy System Migration & Moder... Cloud Services            $6,200.00  Active  
+==========================================================================================
+
+==================================================
+              SERVICE MANAGEMENT MENU             
+==================================================
+  1. View All Services
+  2. View Service Details
+  3. Add New Service
+  4. Update Service
+  5. Delete Service
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-5): Enter Service ID to view (e.g., SRV-101): 
+------------------------------------------------------------
+                  SERVICE DETAILS: SRV-101                  
+------------------------------------------------------------
+  Service ID   : SRV-101
+  Name         : Custom Web Application Development
+  Category     : Web Development
+  Price (USD)  : $3,500.00
+  Status       : Active
+  Description  :
+    End-to-end full-stack web applications using modern React, Python FastAPI, and PostgreSQL.
+------------------------------------------------------------
+
+==================================================
+              SERVICE MANAGEMENT MENU             
+==================================================
+  1. View All Services
+  2. View Service Details
+  3. Add New Service
+  4. Update Service
+  5. Delete Service
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-5): 
+--- Add New Digital Service ---
+Generated Service ID: SRV-111
+Enter Service Name: 
+Select Service Category:
+  1. Web Development
+  2. Mobile App Development
+  3. Cloud Services
+  4. Data Analytics
+  5. AI & Machine Learning
+  6. Cybersecurity
+  7. Design & Creative
+  8. Architecture
+  9. Database
+  10. Other
+Select an option (number or text): Enter Service Description: Enter Base Price in USD ($): 
+Select Initial Status:
+  1. Active (default)
+  2. Inactive
+Select an option (number or text): 
+[OK] Service 'Smart Contract Security Audit' (SRV-111) added successfully!
+
+==================================================
+              SERVICE MANAGEMENT MENU             
+==================================================
+  1. View All Services
+  2. View Service Details
+  3. Add New Service
+  4. Update Service
+  5. Delete Service
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-5): 
+==================================================
+               MAIN NAVIGATION MENU               
+==================================================
+  1. Digital Service Management
+  2. Program & Internship Management
+  3. Customer Inquiry Management
+  4. Search & Multi-Criteria Filtering
+  5. Business Analytics & Reports
+  6. System Data Status & Reload
+  7. Exit Application
+==================================================
+Select an option (1-7): 
+==================================================
+       PROGRAM & INTERNSHIP MANAGEMENT MENU       
+==================================================
+  1. View All Programs
+  2. View Program Details
+  3. Add New Program / Track
+  4. Update Program
+  5. Delete Program
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-5): 
+================================================================================================
+                               VEDA PROGRAMS & COURSES (Total: 10)                              
+================================================================================================
+ID        Program Title                              Type          Duration     Fee (USD)  Seats   Status  
+------------------------------------------------------------------------------------------------
+PRG-201   Full-Stack Web Development Bootcamp        Training      12 Weeks       $850.00   35      Open   
+PRG-202   Data Science & Machine Learning Acceler... Training      10 Weeks       $950.00   25      Open   
+PRG-203   Cloud Architecture & DevOps Professional   Training      8 Weeks        $790.00   30    Upcoming 
+PRG-204   Cybersecurity Defense & Ethical Hacking    Training      8 Weeks        $820.00   20      Open   
+PRG-205   Software Development Engineering (SDE) ... Internship    6 Months          Free   12      Open   
+PRG-206   AI & Deep Learning Research Intern         Internship    3 Months          Free    8    Upcoming 
+PRG-207   UI/UX Product Design Internship            Internship    4 Months          Free   10     Closed  
+PRG-208   Enterprise Kubernetes & Microservices I... Technology    6 Weeks      $1,200.00   18      Open   
+PRG-209   Generative AI Application Engineering      Technology    4 Weeks      $1,100.00   22     Ongoing 
+PRG-210   Distributed Systems & High-Load Archite... Technology    5 Weeks      $1,350.00   15    Upcoming 
+================================================================================================
+
+==================================================
+       PROGRAM & INTERNSHIP MANAGEMENT MENU       
+==================================================
+  1. View All Programs
+  2. View Program Details
+  3. Add New Program / Track
+  4. Update Program
+  5. Delete Program
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-5): Enter Program ID to view (e.g., PRG-201): 
+------------------------------------------------------------
+                  PROGRAM DETAILS: PRG-201                  
+------------------------------------------------------------
+  Program ID   : PRG-201
+  Title        : Full-Stack Web Development Bootcamp
+  Track Type   : Training
+  Duration     : 12 Weeks
+  Fee (USD)    : $850.00
+  Capacity     : 35 seats
+  Status       : Open
+------------------------------------------------------------
+
+==================================================
+       PROGRAM & INTERNSHIP MANAGEMENT MENU       
+==================================================
+  1. View All Programs
+  2. View Program Details
+  3. Add New Program / Track
+  4. Update Program
+  5. Delete Program
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-5): 
+--- Add New Program / Internship Track ---
+Generated Program ID: PRG-211
+Enter Program Title: 
+Select Program Type:
+  1. Training
+  2. Internship
+  3. Technology
+Select an option (number or text): Enter Duration (e.g., '12 Weeks', '6 Months'): Enter Enrollment Fee in USD ($) (Enter 0 for free/stipend) [500.00]: Enter Maximum Seat Capacity [25]: 
+Select Initial Status:
+  1. Open (default)
+  2. Upcoming
+  3. Closed
+  4. Ongoing
+Select an option (number or text): 
+[OK] Program 'Autonomous AI Agents Workshop' (PRG-211) added successfully!
+
+==================================================
+       PROGRAM & INTERNSHIP MANAGEMENT MENU       
+==================================================
+  1. View All Programs
+  2. View Program Details
+  3. Add New Program / Track
+  4. Update Program
+  5. Delete Program
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-5): 
+==================================================
+               MAIN NAVIGATION MENU               
+==================================================
+  1. Digital Service Management
+  2. Program & Internship Management
+  3. Customer Inquiry Management
+  4. Search & Multi-Criteria Filtering
+  5. Business Analytics & Reports
+  6. System Data Status & Reload
+  7. Exit Application
+==================================================
+Select an option (1-7): 
+==================================================
+         CUSTOMER INQUIRY MANAGEMENT MENU         
+==================================================
+  1. View All Inquiries
+  2. View Inquiry Details & History
+  3. Record New Inquiry
+  4. Update Inquiry Status & Add Note
+  5. Delete Inquiry
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-5): 
+==================================================================================================
+                             CUSTOMER & SERVICE INQUIRIES (Total: 10)                             
+==================================================================================================
+ID        Customer Name        Email                     Interest / Subject     Date         Status  
+--------------------------------------------------------------------------------------------------
+INQ-301   Aarav Sharma         aarav.sharma@techcorp.in  Custom Web Applicat... 2026-10-15  Resolved 
+INQ-302   Priya Patel          priya.patel@innovate.org  Cloud Infrastructur... 2026-10-22  In Progress
+INQ-303   Rohit Verma          rohit.verma@gmail.com     Full-Stack Web Deve... 2026-10-28     New   
+INQ-304   Ananya Iyer          ananya.iyer@fintechsol... Cybersecurity Audit... 2026-11-01  In Progress
+INQ-305   David Miller         david.miller@apexgloba... AI & Machine Learni... 2026-11-02     New   
+INQ-306   Meera Nair           meera.nair@student.edu    Software Developmen... 2026-11-03     New   
+INQ-307   Vikram Malhotra      vikram.m@retailx.io       Enterprise Data Ana... 2026-11-03  In Progress
+INQ-308   Sophie Zhang         sophie.zhang@designlab.ca UI/UX Experience De... 2026-11-04     New   
+INQ-309   Arjun Rao            arjun.rao@startupnexus... Generative AI Appli... 2026-11-04  In Progress
+INQ-310   Sneha Kulkarni       sneha.k@academix.in       Data Science & Mach... 2026-11-05  Resolved 
+==================================================================================================
+
+==================================================
+         CUSTOMER INQUIRY MANAGEMENT MENU         
+==================================================
+  1. View All Inquiries
+  2. View Inquiry Details & History
+  3. Record New Inquiry
+  4. Update Inquiry Status & Add Note
+  5. Delete Inquiry
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-5): Enter Inquiry ID to view (e.g., INQ-301): 
+=================================================================
+                     INQUIRY DETAILS: INQ-301                    
+=================================================================
+  Inquiry ID     : INQ-301
+  Customer Name  : Aarav Sharma
+  Email Address  : aarav.sharma@techcorp.in
+  Phone Number   : +91-9876543210
+  Date Received  : 2026-10-15
+  Interest Target: Custom Web Application Development
+  Current Status : Resolved
+  Customer Query :
+    We need a custom B2B SaaS portal with client onboarding and billing integration.
+-----------------------------------------------------------------
+  STATUS AUDIT & PROGRESS HISTORY:
+    [1] 2026-10-15 10:30 | Status: New         | Note: Inquiry recorded from web portal.
+    [2] 2026-10-16 14:00 | Status: In Progress | Note: Requirement scoping call completed.
+    [3] 2026-10-20 16:45 | Status: Resolved    | Note: Contract signed and handed to delivery team.
+=================================================================
+
+==================================================
+         CUSTOMER INQUIRY MANAGEMENT MENU         
+==================================================
+  1. View All Inquiries
+  2. View Inquiry Details & History
+  3. Record New Inquiry
+  4. Update Inquiry Status & Add Note
+  5. Delete Inquiry
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-5): 
+--- Record New Customer Inquiry ---
+Generated Inquiry ID: INQ-311
+Enter Customer Name: Enter Customer Email Address: Enter Customer Phone Number: 
+Select Interest Topic:
+  1. Select from Active Services
+  2. Select from Open Programs
+  3. Enter Custom Requirement / Subject
+
+Choose option:
+  1. Active Services
+  2. Open Programs
+  3. Custom Topic
+Select an option (number or text): 
+Select Service:
+  1. Custom Web Application Development
+  2. Cross-Platform Mobile App Development
+  3. Cloud Infrastructure & DevOps Automation
+  4. Enterprise Data Analytics & BI Dashboards
+  5. AI & Machine Learning Model Integration
+  6. Cybersecurity Audit & Penetration Testing
+  7. UI/UX Experience Design & Prototyping
+  8. API Design & Microservices Refactoring
+  9. Legacy System Migration & Modernization
+  10. Smart Contract Security Audit
+Select an option (number or text): Enter Inquiry Message / Customer Requirements: Inquiry Date (YYYY-MM-DD) [2026-11-05]: 
+Initial Status:
+  1. New (default)
+  2. In Progress
+  3. Resolved
+Select an option (number or text): 
+[OK] Inquiry 'INQ-311' from 'Kavita Sharma' logged successfully!
+
+==================================================
+         CUSTOMER INQUIRY MANAGEMENT MENU         
+==================================================
+  1. View All Inquiries
+  2. View Inquiry Details & History
+  3. Record New Inquiry
+  4. Update Inquiry Status & Add Note
+  5. Delete Inquiry
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-5): Enter Inquiry ID to update (e.g., INQ-301): 
+Inquiry Found: INQ-303 - Rohit Verma (Full-Stack Web Development Bootcamp)
+Current Status: New
+
+Select New Status:
+  1. New (default)
+  2. In Progress
+  3. Resolved
+Select an option (number or text): Enter Activity / Follow-Up Note [Status set to In Progress]: 
+[OK] Inquiry 'INQ-303' status updated to 'In Progress' with audit note.
+
+==================================================
+         CUSTOMER INQUIRY MANAGEMENT MENU         
+==================================================
+  1. View All Inquiries
+  2. View Inquiry Details & History
+  3. Record New Inquiry
+  4. Update Inquiry Status & Add Note
+  5. Delete Inquiry
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-5): 
+==================================================
+               MAIN NAVIGATION MENU               
+==================================================
+  1. Digital Service Management
+  2. Program & Internship Management
+  3. Customer Inquiry Management
+  4. Search & Multi-Criteria Filtering
+  5. Business Analytics & Reports
+  6. System Data Status & Reload
+  7. Exit Application
+==================================================
+Select an option (1-7): 
+==================================================
+                SEARCH & FILTER HUB               
+==================================================
+  1. Search & Filter Digital Services
+  2. Search & Filter Programs & Internships
+  3. Search & Filter Customer Inquiries
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-3): 
+--- Search & Filter Digital Services ---
+  1. Search by Keyword (Name, Category, Description)
+  2. Filter by Category
+  3. Filter by Status (Active / Inactive)
+  4. Filter by Price Range
+  0. Back to Search Menu
+Select an option (0-4): Enter search keyword: 
+==========================================================================================
+                           SERVICES MATCHING 'CLOUD' (Total: 2)                           
+==========================================================================================
+ID        Service Name                       Category                Price (USD)  Status  
+------------------------------------------------------------------------------------------
+SRV-103   Cloud Infrastructure & DevOps A... Cloud Services            $2,800.00  Active  
+SRV-110   Legacy System Migration & Moder... Cloud Services            $6,200.00  Active  
+==========================================================================================
+
+--- Search & Filter Digital Services ---
+  1. Search by Keyword (Name, Category, Description)
+  2. Filter by Category
+  3. Filter by Status (Active / Inactive)
+  4. Filter by Price Range
+  0. Back to Search Menu
+Select an option (0-4): 
+==================================================
+                SEARCH & FILTER HUB               
+==================================================
+  1. Search & Filter Digital Services
+  2. Search & Filter Programs & Internships
+  3. Search & Filter Customer Inquiries
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-3): 
+--- Search & Filter Programs & Internships ---
+  1. Search by Keyword (Title, Duration)
+  2. Filter by Track Type (Training / Internship / Technology)
+  3. Filter by Status (Open / Upcoming / Closed / Ongoing)
+  4. Filter by Enrollment Fee Range
+  0. Back to Search Menu
+Select an option (0-4): 
+Select Program Type:
+  1. Training
+  2. Internship
+  3. Technology
+Select an option (number or text): 
+================================================================================================
+                                 INTERNSHIP PROGRAMS (Total: 3)                                 
+================================================================================================
+ID        Program Title                              Type          Duration     Fee (USD)  Seats   Status  
+------------------------------------------------------------------------------------------------
+PRG-205   Software Development Engineering (SDE) ... Internship    6 Months          Free   12      Open   
+PRG-206   AI & Deep Learning Research Intern         Internship    3 Months          Free    8    Upcoming 
+PRG-207   UI/UX Product Design Internship            Internship    4 Months          Free   10     Closed  
+================================================================================================
+
+--- Search & Filter Programs & Internships ---
+  1. Search by Keyword (Title, Duration)
+  2. Filter by Track Type (Training / Internship / Technology)
+  3. Filter by Status (Open / Upcoming / Closed / Ongoing)
+  4. Filter by Enrollment Fee Range
+  0. Back to Search Menu
+Select an option (0-4): 
+==================================================
+                SEARCH & FILTER HUB               
+==================================================
+  1. Search & Filter Digital Services
+  2. Search & Filter Programs & Internships
+  3. Search & Filter Customer Inquiries
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-3): 
+--- Search & Filter Customer Inquiries ---
+  1. Search by Keyword (Name, Email, Interest, Message)
+  2. Filter by Status (New / In Progress / Resolved)
+  3. Filter by Date Range (YYYY-MM-DD)
+  0. Back to Search Menu
+Select an option (0-3): 
+Select Status to Filter:
+  1. New
+  2. In Progress
+  3. Resolved
+Select an option (number or text): 
+==================================================================================================
+                          INQUIRIES WITH STATUS 'IN PROGRESS' (Total: 5)                          
+==================================================================================================
+ID        Customer Name        Email                     Interest / Subject     Date         Status  
+--------------------------------------------------------------------------------------------------
+INQ-302   Priya Patel          priya.patel@innovate.org  Cloud Infrastructur... 2026-10-22  In Progress
+INQ-303   Rohit Verma          rohit.verma@gmail.com     Full-Stack Web Deve... 2026-10-28  In Progress
+INQ-304   Ananya Iyer          ananya.iyer@fintechsol... Cybersecurity Audit... 2026-11-01  In Progress
+INQ-307   Vikram Malhotra      vikram.m@retailx.io       Enterprise Data Ana... 2026-11-03  In Progress
+INQ-309   Arjun Rao            arjun.rao@startupnexus... Generative AI Appli... 2026-11-04  In Progress
+==================================================================================================
+
+--- Search & Filter Customer Inquiries ---
+  1. Search by Keyword (Name, Email, Interest, Message)
+  2. Filter by Status (New / In Progress / Resolved)
+  3. Filter by Date Range (YYYY-MM-DD)
+  0. Back to Search Menu
+Select an option (0-3): 
+==================================================
+                SEARCH & FILTER HUB               
+==================================================
+  1. Search & Filter Digital Services
+  2. Search & Filter Programs & Internships
+  3. Search & Filter Customer Inquiries
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-3): 
+==================================================
+               MAIN NAVIGATION MENU               
+==================================================
+  1. Digital Service Management
+  2. Program & Internship Management
+  3. Customer Inquiry Management
+  4. Search & Multi-Criteria Filtering
+  5. Business Analytics & Reports
+  6. System Data Status & Reload
+  7. Exit Application
+==================================================
+Select an option (1-7): 
+==================================================
+           BUSINESS ANALYTICS & REPORTS           
+==================================================
+  1. View Executive Business Report (Console)
+  2. Export Executive Report to Text File
+  3. View Revenue Potential Summary
+  4. View Most Requested Services / Topics
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-4): 
+================================================================================
+          VEDA TECHNOLOGY BUSINESS & SERVICE MANAGEMENT SYSTEM
+                        EXECUTIVE BUSINESS REPORT
+================================================================================
+ Generated At : 2026-11-05 21:19:47
+ Organization : Veda Technology Solutions Inc.
+--------------------------------------------------------------------------------
+
+1. EXECUTIVE SUMMARY & INVENTORY
+   ----------------------------------------------------------------------
+   * Total Digital Services Offered  : 11 (10 Active, 1 Inactive)
+   * Total Educational Programs       : 11 (Capacity: 220 seats)
+   * Active/Upcoming Seat Capacity    : 188 seats available
+   * Total Customer Inquiries Logged  : 11
+   * Inquiry Resolution Rate          : 18.2%
+
+2. EDUCATIONAL & TRAINING PROGRAM BREAKDOWN
+   ----------------------------------------------------------------------
+   Distribution by Track Type:
+     - Training        :  4 programs (110 seats total)
+     - Internship      :  3 programs ( 30 seats total)
+     - Technology      :  4 programs ( 80 seats total)
+   Enrollment Status Breakdown:
+     - Open            :  6 programs
+     - Upcoming        :  3 programs
+     - Closed          :  1 programs
+     - Ongoing         :  1 programs
+
+3. CUSTOMER INQUIRIES & WORKFLOW PIPELINE
+   ----------------------------------------------------------------------
+   * New Inquiries (Unassigned/Pending) :  4 (36.4%)
+   * In Progress (Under Scoping/Review) :  5 (45.5%)
+   * Resolved (Closed or Contracted)    :  2 (18.2%)
+
+4. MOST REQUESTED SERVICES & PROGRAMS
+   ----------------------------------------------------------------------
+   Rank   Service / Program Topic                        Inquiries
+   ---------------------------------------------------------------
+   #1     Custom Web Application Development                     2
+   #2     Cloud Infrastructure & DevOps Automation               1
+   #3     Full-Stack Web Development Bootcamp                    1
+   #4     Cybersecurity Audit & Penetration Testing              1
+   #5     AI & Machine Learning Model Integration                1
+
+5. REVENUE POTENTIAL & PIPELINE VALUATION
+   ----------------------------------------------------------------------
+   * Active Service Baseline Catalog Value : $   40,100.00
+   * Open Program Tuition Capacity Value   : $  164,200.00
+   * Active Inquiries Pipeline Value       : $   22,350.00
+   --------------------------------------------------------------
+   * Total Estimated Financial Opportunity : $  226,650.00
+
+================================================================================
+                       END OF BUSINESS REPORT
+================================================================================
+
+==================================================
+           BUSINESS ANALYTICS & REPORTS           
+==================================================
+  1. View Executive Business Report (Console)
+  2. Export Executive Report to Text File
+  3. View Revenue Potential Summary
+  4. View Most Requested Services / Topics
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-4): 
+-------------------------------------------------------
+                REVENUE POTENTIAL SUMMARY              
+-------------------------------------------------------
+  Active Service Catalog Value : $   40,100.00
+  Program Tuition Capacity     : $  164,200.00
+  Unresolved Inquiries Pipeline: $   22,350.00
+  ---------------------------------------------
+  Total Business Value         : $  226,650.00
+-------------------------------------------------------
+
+==================================================
+           BUSINESS ANALYTICS & REPORTS           
+==================================================
+  1. View Executive Business Report (Console)
+  2. Export Executive Report to Text File
+  3. View Revenue Potential Summary
+  4. View Most Requested Services / Topics
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-4): 
+-------------------------------------------------------
+            TOP REQUESTED SERVICES & PROGRAMS          
+-------------------------------------------------------
+  1. Custom Web Application Development (2 inquiries)
+  2. Cloud Infrastructure & DevOps Automation (1 inquiries)
+  3. Full-Stack Web Development Bootcamp (1 inquiries)
+  4. Cybersecurity Audit & Penetration Testing (1 inquiries)
+  5. AI & Machine Learning Model Integration (1 inquiries)
+-------------------------------------------------------
+
+==================================================
+           BUSINESS ANALYTICS & REPORTS           
+==================================================
+  1. View Executive Business Report (Console)
+  2. Export Executive Report to Text File
+  3. View Revenue Potential Summary
+  4. View Most Requested Services / Topics
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-4): Enter export file path [C:\Users\HEMA\.gemini\antigravity\scratch\veda-business-management-system\sample_output\business_report_20261105_211947.txt]: 
+[OK] Executive report exported successfully to:
+    C:\Users\HEMA\.gemini\antigravity\scratch\veda-business-management-system\sample_output\business_report_20261105_211947.txt
+
+==================================================
+           BUSINESS ANALYTICS & REPORTS           
+==================================================
+  1. View Executive Business Report (Console)
+  2. Export Executive Report to Text File
+  3. View Revenue Potential Summary
+  4. View Most Requested Services / Topics
+  0. Back to Main Menu
+--------------------------------------------------
+Select an option (0-4): 
+==================================================
+               MAIN NAVIGATION MENU               
+==================================================
+  1. Digital Service Management
+  2. Program & Internship Management
+  3. Customer Inquiry Management
+  4. Search & Multi-Criteria Filtering
+  5. Business Analytics & Reports
+  6. System Data Status & Reload
+  7. Exit Application
+==================================================
+Select an option (1-7): 
+============================================================
+                SYSTEM STORAGE & DATA STATUS                
+============================================================
+  Storage Directory : C:\Users\HEMA\.gemini\antigravity\scratch\veda-business-management-system\data
+  Services Loaded   : 11 records (File: services.json)
+  Programs Loaded   : 11 records (File: programs.json)
+  Inquiries Loaded  : 11 records (File: inquiries.json)
+------------------------------------------------------------
+Do you want to re-load datasets from disk? [y/N]: 
+==================================================
+               MAIN NAVIGATION MENU               
+==================================================
+  1. Digital Service Management
+  2. Program & Internship Management
+  3. Customer Inquiry Management
+  4. Search & Multi-Criteria Filtering
+  5. Business Analytics & Reports
+  6. System Data Status & Reload
+  7. Exit Application
+==================================================
+Select an option (1-7): 
+============================================================
+ Thank you for using Veda Technology Management System!
+ Have a productive day ahead. Goodbye.
+============================================================
+

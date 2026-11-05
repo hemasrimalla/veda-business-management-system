@@ -1,0 +1,82 @@
+[
+    {
+        "id": "SRV-101",
+        "name": "Custom Web Application Development",
+        "category": "Web Development",
+        "description": "End-to-end full-stack web applications using modern React, Python FastAPI, and PostgreSQL.",
+        "price": 3500.0,
+        "status": "Active"
+    },
+    {
+        "id": "SRV-102",
+        "name": "Cross-Platform Mobile App Development",
+        "category": "Mobile App Development",
+        "description": "High-performance iOS and Android mobile apps built using Flutter and React Native.",
+        "price": 4200.0,
+        "status": "Active"
+    },
+    {
+        "id": "SRV-103",
+        "name": "Cloud Infrastructure & DevOps Automation",
+        "category": "Cloud Services",
+        "description": "Scalable cloud architectures on AWS/GCP with Terraform, Docker, and CI/CD pipelines.",
+        "price": 2800.0,
+        "status": "Active"
+    },
+    {
+        "id": "SRV-104",
+        "name": "Enterprise Data Analytics & BI Dashboards",
+        "category": "Data Analytics",
+        "description": "Data pipelines, ETL workflows, and interactive executive reporting dashboards.",
+        "price": 3100.0,
+        "status": "Active"
+    },
+    {
+        "id": "SRV-105",
+        "name": "AI & Machine Learning Model Integration",
+        "category": "AI & Machine Learning",
+        "description": "Custom LLM integrations, document retrieval agents, and predictive machine learning models.",
+        "price": 5000.0,
+        "status": "Active"
+    },
+    {
+        "id": "SRV-106",
+        "name": "Cybersecurity Audit & Penetration Testing",
+        "category": "Cybersecurity",
+        "description": "Vulnerability assessments, code audits, and infrastructure compliance hardening.",
+        "price": 3800.0,
+        "status": "Active"
+    },
+    {
+        "id": "SRV-107",
+        "name": "UI/UX Experience Design & Prototyping",
+        "category": "Design & Creative",
+        "description": "User research, wireframing, high-fidelity interactive Figma prototypes, and design systems.",
+        "price": 2200.0,
+        "status": "Active"
+    },
+    {
+        "id": "SRV-108",
+        "name": "API Design & Microservices Refactoring",
+        "category": "Architecture",
+        "description": "Decomposing legacy monoliths into resilient, decoupled RESTful and gRPC microservices.",
+        "price": 4500.0,
+        "status": "Active"
+    },
+    {
+        "id": "SRV-109",
+        "name": "Managed Database Optimization & Tuning",
+        "category": "Database",
+        "description": "Query performance profiling, indexing strategies, replication setup, and failover clustering.",
+        "price": 1900.0,
+        "status": "Inactive"
+    },
+    {
+        "id": "SRV-110",
+        "name": "Legacy System Migration & Modernization",
+        "category": "Cloud Services",
+        "description": "Seamless migration of on-premise systems to modern, scalable containerized cloud stacks.",
+        "price": 6200.0,
+        "status": "Active"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "id": "PRG-201",
+        "title": "Full-Stack Web Development Bootcamp",
+        "type": "Training",
+        "duration": "12 Weeks",
+        "fee": 850.0,
+        "seats": 35,
+        "status": "Open"
+    },
+    {
+        "id": "PRG-202",
+        "title": "Data Science & Machine Learning Accelerator",
+        "type": "Training",
+        "duration": "10 Weeks",
+        "fee": 950.0,
+        "seats": 25,
+        "status": "Open"
+    },
+    {
+        "id": "PRG-203",
+        "title": "Cloud Architecture & DevOps Professional",
+        "type": "Training",
+        "duration": "8 Weeks",
+        "fee": 790.0,
+        "seats": 30,
+        "status": "Upcoming"
+    },
+    {
+        "id": "PRG-204",
+        "title": "Cybersecurity Defense & Ethical Hacking",
+        "type": "Training",
+        "duration": "8 Weeks",
+        "fee": 820.0,
+        "seats": 20,
+        "status": "Open"
+    },
+    {
+        "id": "PRG-205",
+        "title": "Software Development Engineering (SDE) Intern",
+        "type": "Internship",
+        "duration": "6 Months",
+        "fee": 0.0,
+        "seats": 12,
+        "status": "Open"
+    },
+    {
+        "id": "PRG-206",
+        "title": "AI & Deep Learning Research Intern",
+        "type": "Internship",
+        "duration": "3 Months",
+        "fee": 0.0,
+        "seats": 8,
+        "status": "Upcoming"
+    },
+    {
+        "id": "PRG-207",
+        "title": "UI/UX Product Design Internship",
+        "type": "Internship",
+        "duration": "4 Months",
+        "fee": 0.0,
+        "seats": 10,
+        "status": "Closed"
+    },
+    {
+        "id": "PRG-208",
+        "title": "Enterprise Kubernetes & Microservices Immersion",
+        "type": "Technology",
+        "duration": "6 Weeks",
+        "fee": 1200.0,
+        "seats": 18,
+        "status": "Open"
+    },
+    {
+        "id": "PRG-209",
+        "title": "Generative AI Application Engineering",
+        "type": "Technology",
+        "duration": "4 Weeks",
+        "fee": 1100.0,
+        "seats": 22,
+        "status": "Ongoing"
+    },
+    {
+        "id": "PRG-210",
+        "title": "Distributed Systems & High-Load Architecture",
+        "type": "Technology",
+        "duration": "5 Weeks",
+        "fee": 1350.0,
+        "seats": 15,
+        "status": "Upcoming"
+    }
+]
